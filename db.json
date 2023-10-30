@@ -1,0 +1,21 @@
+{
+  "contatos": [
+  {
+    "nome": "Gustavo",
+            "sobrenome": "Magalhães",
+            "email": "magalhaes@gmail.com",
+            "pais": "55",
+            "ddd": "11",
+            "telefone": "973233127",
+            "cep": "09405560",
+            "rua": "Rua da Liberdade",
+            "numero": "151",
+            "complemento": "Casa",
+            "bairro": "Bairro Colonia",
+            "cidade": "São Paulo",
+            "uf": "SP",
+            "anotacoes": "zzz",
+            "id": 1 
+          }     
+  ]
+}
